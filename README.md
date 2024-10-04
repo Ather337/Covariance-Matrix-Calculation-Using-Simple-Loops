@@ -22,4 +22,4 @@ To run this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/covariance-matrix-calculation.git
+   git clone https://github.com/Ather337/Covariance-Matrix-Calculation-Using-Simple-Loops.git
